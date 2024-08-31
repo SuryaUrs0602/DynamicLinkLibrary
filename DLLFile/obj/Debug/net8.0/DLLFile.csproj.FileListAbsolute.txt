@@ -1,0 +1,11 @@
+C:\Users\surya.c.urs\source\repos\DLLUnderStanding\DLLFile\bin\Debug\net8.0\DLLFile.deps.json
+C:\Users\surya.c.urs\source\repos\DLLUnderStanding\DLLFile\bin\Debug\net8.0\DLLFile.dll
+C:\Users\surya.c.urs\source\repos\DLLUnderStanding\DLLFile\bin\Debug\net8.0\DLLFile.pdb
+C:\Users\surya.c.urs\source\repos\DLLUnderStanding\DLLFile\obj\Debug\net8.0\DLLFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\surya.c.urs\source\repos\DLLUnderStanding\DLLFile\obj\Debug\net8.0\DLLFile.AssemblyInfoInputs.cache
+C:\Users\surya.c.urs\source\repos\DLLUnderStanding\DLLFile\obj\Debug\net8.0\DLLFile.AssemblyInfo.cs
+C:\Users\surya.c.urs\source\repos\DLLUnderStanding\DLLFile\obj\Debug\net8.0\DLLFile.csproj.CoreCompileInputs.cache
+C:\Users\surya.c.urs\source\repos\DLLUnderStanding\DLLFile\obj\Debug\net8.0\DLLFile.dll
+C:\Users\surya.c.urs\source\repos\DLLUnderStanding\DLLFile\obj\Debug\net8.0\refint\DLLFile.dll
+C:\Users\surya.c.urs\source\repos\DLLUnderStanding\DLLFile\obj\Debug\net8.0\DLLFile.pdb
+C:\Users\surya.c.urs\source\repos\DLLUnderStanding\DLLFile\obj\Debug\net8.0\ref\DLLFile.dll
